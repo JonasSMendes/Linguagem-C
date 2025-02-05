@@ -1,0 +1,14 @@
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\bin\Debug\net9.0\meuPrograma.exe
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\bin\Debug\net9.0\meuPrograma.deps.json
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\bin\Debug\net9.0\meuPrograma.runtimeconfig.json
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\bin\Debug\net9.0\meuPrograma.dll
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\bin\Debug\net9.0\meuPrograma.pdb
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\meuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\meuPrograma.AssemblyInfoInputs.cache
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\meuPrograma.AssemblyInfo.cs
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\meuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\meuPrograma.dll
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\refint\meuPrograma.dll
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\meuPrograma.pdb
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\meuPrograma.genruntimeconfig.cache
+C:\Users\Jonas\Documents\C\projetos\meuPrograma\obj\Debug\net9.0\ref\meuPrograma.dll
